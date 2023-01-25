@@ -1,0 +1,7 @@
+.section::after{
+    content: "\f026"; 
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    /* pro-<free 수정 */
+    /* 경로 fontawsome->all version->font awesome5 free icon */
+}
